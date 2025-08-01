@@ -1,0 +1,8 @@
+{
+    "completeCheckout": 
+    {
+        "thankyou_msg": "Thank you for your order!",
+        "ship_msg": "Your order has been dispatched, and will arrive just as fast as the pony can get there!",
+        "home_btn": "Back Home"
+    }
+}
